@@ -1,0 +1,9 @@
+{
+    "id": "loyalty-card",
+    "name": "Loyalty Card",
+    "author": "Gemini CLI",
+    "version": "1.0.0",
+    "category": "plugin",
+    "namespace": "Plugins\\LoyaltyCard",
+    "class": "LoyaltyCard"
+}
